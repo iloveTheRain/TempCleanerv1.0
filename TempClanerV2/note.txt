@@ -1,0 +1,5 @@
+Run the exe as admin so you can avoid getting erros
+________________________________________________
+if you want to always run it as administrator
+press right click on it then click on properties then go to compatibility then you will find 
+'Run this program as administrator' check the box next to it then Apply then ok
