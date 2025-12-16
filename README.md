@@ -18,7 +18,7 @@ Packaged as a standalone **.exe** for easy use on any Windows machine.
 Grab the .exe from the TempCleanerv1.0 folder in this repo
 or download the whole folder if you want everything.
 
-**`If you exprince any issues with the exe don't forget to run it as admin check the note inside the folder for more info`**
+**`If you experience any issues with the exe don't forget to run it as admin check the note inside the folder for more info`**
 
 ---
 
